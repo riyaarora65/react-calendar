@@ -1,0 +1,13 @@
+body {
+  background-color: beige;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.content {
+  min-height: 100vh;
+  margin-top: 5vh;
+}
